@@ -70,8 +70,8 @@ This project helps banking management:
 - Make data-driven decisions.
 
 ## Author
-ROTTESABAGARI SHANOOR BASHA
-Data Analyst | Power BI Learner
+Shivacharan Mandala
+ Power BI Learner
 
 ## Project Status
 
